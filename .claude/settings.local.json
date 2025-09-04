@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm install:*)",
+      "Read(/C:\\dev\\frontend_new/**)",
+      "Read(/C:\\dev\\frontend_new\\src/**)",
+      "Read(/C:\\dev\\frontend_new/**)"
+    ],
+    "deny": [],
+    "ask": [],
+    "defaultMode": "acceptEdits"
+  }
+}
